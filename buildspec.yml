@@ -5,6 +5,7 @@ phases:
     commands:
       - echo Build started on `date`
       - echo Building the Docker image...          
+      - cd ./flask_container_ci
       - docker build -t mirsadsabovic/myapp:0.5 .
   post_build:
     commands:
