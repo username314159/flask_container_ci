@@ -1,4 +1,4 @@
-Your mission, should you choose to accept it, involves fixing the app in this directory, containerize it and set up a CI for it.
+Your mission is, should you choose to accept it, involves fixing the app in this directory, containerize it and set up a CI for it.
 Please read carefully all the instructions.
 
 If any of the following steps is not working, it is expected from you to fix them
