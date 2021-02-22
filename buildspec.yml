@@ -41,8 +41,8 @@ phases:
       # - command
   post_build:
     commands:
-      docker push mirsadsabovic/flaskapp1:latest
-      docker run -d -p 80:5000 flaskapp1:latest
+        -  docker push mirsadsabovic/flaskapp1:latest
+       # -  docker run -d -p 80:5000 flaskapp1:latest
       # - command
       # - command
 #reports:
